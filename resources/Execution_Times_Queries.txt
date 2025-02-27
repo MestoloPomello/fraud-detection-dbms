@@ -1,0 +1,28 @@
+50mb
+
+a. 2139 ms
+b. 2453 ms
+c. 2125 ms - con 3 livelli e customer_id 0
+d. 	290265 ms - 1000 su 861000
+	249.918.165 ms = 249.918 s = 4165,30 m = 69,42 h
+e. 2100 ms
+
+
+100mb
+
+a. 2211 ms
+b. 2361 ms
+c. 2156 ms - con 3 livelli e customer_id 0
+d. 	73788 ms - 100 su 1.721.358
+	1.270.155.641 ms = 1.270.156 s = 21.169,3 m = 352,8 h
+e. 2096 ms
+
+
+200 mb
+
+a. 2067 ms
+b. 2090 ms
+c. 2104 ms - con 3 livelli e customer_id 0
+d. 	124.659 s - 100 su 3.444.188
+	4.293.490.318 ms = 4.293.490 s = 71.558,2 m = 1.192,6 h
+e. 2059 ms

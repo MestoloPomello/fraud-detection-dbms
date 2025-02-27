@@ -1,0 +1,17 @@
+- 50mb
+Time to generate customer profiles table: 0.057s
+Time to generate terminal profiles table: 0.0059s
+Time to associate terminals to customers: 1.8s
+Time to generate transactions: 58s
+
+- 100mb
+Time to generate customer profiles table: 0.067s
+Time to generate terminal profiles table: 0.0059s
+Time to associate terminals to customers: 1.8s
+Time to generate transactions: 100s = 1m40s
+
+- 200mb
+Time to generate customer profiles table: 0.052s
+Time to generate terminal profiles table: 0.0059s
+Time to associate terminals to customers: 1.8s
+Time to generate transactions: 190s = 3m10s

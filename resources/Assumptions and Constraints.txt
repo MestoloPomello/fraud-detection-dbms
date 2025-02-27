@@ -1,0 +1,11 @@
+Assumptions:
+1. We add an ID on Customer in order to univocally identify a customer.
+2. We add an ID on Terminal in order to univocally identify a terminal.
+3. We assume that there is a Geo_Location tuple with the x and y coordinates.
+4. We assume that the period of the day for a Transaction is one of the values contained in the Period enumerator.
+5. We assume that the product kind for a Transaction is one of the values contained in the Product Kind enumerator.
+
+Constraints:
+1. The x and y values of the Geo_Location must be between 0 and 100 (the min and max values of the grid).
+2. The mean_spending_amount and std_spending_amount of a customer can't be greater than the maximum amount_paid for the customer's transactions or lesser than 0.
+3. The feeling_of_security field of a transaction must be a value between 1 (low security) and 5 (high security).
