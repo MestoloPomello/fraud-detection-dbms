@@ -27,13 +27,13 @@ Import the `datasets_generator.ipynb` notebook in a Google Colab instance and ru
 ## Importing datasets in the Neo4J instance
 Change the desired dataset from the `import_datasets.py` file variables. Move in the `scripts` folder and run the following command:
 ```
-python ./import_datasets.py
+python .\import_datasets.py
 ```
 
 ## Running queries
 For the queries `a`, `b`, `d` and `e`, run the following command:
 ```
-python ./run_query.py --query_index <a|b|d|e>
+python .\run_query.py --query_index <a|b|d|e>
 ```
 
 Since the query `c` requires two parameters, its syntax is like the following:
